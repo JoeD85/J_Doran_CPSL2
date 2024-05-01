@@ -13,7 +13,6 @@ float computeAngle(int x, int y, int z){
     res = (res * 180)/PI;
     return res;
 }
-
 /* Simple main function */
 int main() {
     uint8_t id;
